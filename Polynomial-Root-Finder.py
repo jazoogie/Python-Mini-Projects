@@ -1,9 +1,8 @@
 # Approximation polynomial root finder !
 # By Jesse M, 30/05/2025
 
-# This program approximates the roots of any length polynomial - a curious
-# problem for which me and my friend Sean designed the algorithm for, and
-# I implemented.
+# This program approximates the roots of any degree polynomial - a curious
+# problem for which me and my friend Sean designed the algorithm for, and I implemented.
 
 # default offset for outer roots of polynomial
 STD_OFST = 1
