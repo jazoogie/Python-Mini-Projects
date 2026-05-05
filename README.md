@@ -2,6 +2,11 @@
 Short projects made in Python to streamline monotonous tasks, or simply as solutions to problems I find interesting.
 
 ## Overviews
+### Invoice Generator
+ - A program used to streamline the process of creating invoices for my clients.
+ - A CSV is passed in (my cashflow spreadsheet) and the data is parsed an filled into an 'Invoice-Template.docx' document for each client.
+ - This tells the client the dates of which tutoring took place, and how much money is payable.
+
 ### Determinants
  - This program finds the determinant of any matrix via two different methods.
  - I made this while bored on a plane flight.
